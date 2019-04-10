@@ -64,8 +64,8 @@
   width: 800px;
 }
 .ctrl-btn {
-    margin: 0;
-    padding: 0;
+  margin: 0;
+  padding: 0;
   width: 50px;
   height: 50px;
   border-radius: 100px;
@@ -97,15 +97,14 @@
   height: 20px;
   border-left: 4px solid #fff;
   border-top: 4px solid #fff;
-  
 }
 
-#prev-btn span{
-transform: rotate(-45deg);
-margin-left: 6px;
+#prev-btn span {
+  transform: rotate(-45deg);
+  margin-left: 6px;
 }
 
-#next-btn span{
-transform: rotate(135deg);
-margin-right: 6px;
+#next-btn span {
+  transform: rotate(135deg);
+  margin-right: 6px;
 }
